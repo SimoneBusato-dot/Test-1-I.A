@@ -10,7 +10,8 @@ body{
 main{
     justify-items: center;
     max-width: 1000px;
-    max-height:75vh ;
+    max-height: 75vh;
+    transform: scale(100vh/1000);
     
     
 }
@@ -28,8 +29,8 @@ main{
 #cont_list_img{
     display: flex;
     gap: 5em;
-    width: 900px;
-    max-width: 900px;
+    width: 90vh;
+    max-width: 90vh;
     height: fit-content;
     margin-left: 5em;
     margin-bottom: 5em;
@@ -52,8 +53,8 @@ ul{
     display: block;
     
     border-radius: 20px;
-    max-width: 400px;
-    min-width: 400px;
+    max-width: 50vh;
+    min-width: 50vh;
     height: fit-content;
     justify-items: center;
     background-color: #0b1632;
