@@ -27,9 +27,7 @@ main{
     max-width: 90vh;
     height: fit-content;
     margin-bottom: 5em;
-    background-color: #aebfe3;
     border-radius: 20px;
-    box-shadow: -1em -1em 2em rgba(0,0,0,0.3);
 
 
 }
